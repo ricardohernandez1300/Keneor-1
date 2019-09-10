@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "RPG Keneor",
-"dataUrl": "Keneor WEB.data.unityweb",
-"wasmCodeUrl": "Keneor WEB.wasm.code.unityweb",
-"wasmFrameworkUrl": "Keneor WEB.wasm.framework.unityweb",
+"dataUrl": "KeneorWeb.data.unityweb",
+"wasmCodeUrl": "KeneorWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "KeneorWeb.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
